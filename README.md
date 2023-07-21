@@ -24,8 +24,20 @@
 ![pag1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/258550f7-1cc2-43e5-a66f-2ff078662a0a)
 ![pag1-2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/0577fbee-1bda-4044-9b88-f488f19b2c2d)
 ## Formulário
-Na barra lateral há uma parte dedicada à formulários, isso porque o projeto foi feito para um coach que fazia alguns questionários com seus clientes com o intuito de conhecê-los melhor. Essa aba tem por objetivo auxiliar a pessoa nesses questionários, assim em "editar fomrulário" o usuário pode preencher os questionários que serão automáticamente enviados para o administrador do site, em "comentários" os usuários podem visualizar comentários feitos pelo próprio coach para aquele formulário específico, para aquela pessoa em específico. OBS: "a visão de futuro daqui 12 meses" se refere a metodologia do coach em questão, cada um dos botões (saúde, relacionamento, Trabalho, Dinheiro, Outros objetivos) leva para um questionário diferente referente a esses temas (por questões de estilo todos seguem o mesmo padrão de estilização), todos tendo suas respostas enviadas automáticamente para o administrador do site e podendo receber seus comentários específicos também.
+Na barra lateral há uma parte dedicada à formulários, isso porque o projeto foi feito para um coach que fazia alguns questionários com seus clientes com o intuito de conhecê-los melhor. Essa aba tem por objetivo auxiliar a pessoa nesses questionários, assim em "editar fomrulário" o usuário pode preencher os questionários que serão automáticamente enviados para o administrador do site, em "comentários" os usuários podem visualizar comentários feitos pelo próprio coach para aquele formulário específico, para aquela pessoa em específico. 
+### OBS: "a visão de futuro daqui 12 meses" se refere a metodologia do coach em questão, cada um dos botões (saúde, relacionamento, Trabalho, Dinheiro, Outros objetivos) leva para um questionário diferente referente a esses temas (por questões de estilo todos seguem o mesmo padrão de estilização), todos tendo suas respostas enviadas automáticamente para o administrador do site e podendo receber seus comentários específicos também.
 ![forms1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/7f625cfe-f930-4271-8b45-02cd8f6a4051)
 ![forms3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/e0dd23bf-aca6-46f9-8baa-63b412b6cf7d)
 ![forms2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/78e61d30-4901-495e-92e6-6960bb7252c2)
+## Metas
+### Essa aba de metas também se refere a metodologia do coach. Aqui há 5 metas (cards inicialmente vazios) referentes aos objetivos de 12 meses dos usuários, essas metas são cadastradas pelo coach e os alunos podem marcar os tópicos já realizados em cada meta ( ao clicar em 'ok' esses dados são enviados ao  adminitrador do site).
+![met1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/4ea5b2b5-7b7f-4721-8c81-7941a3c02ed8)
+![met2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/b9b74bcf-d3e0-46c1-a0ef-b7b1cd25d0e1)
+### A parte de baixo "Conclusão Das Metas" possui dois gráficos e ambos são referentes a taxa de conclusão separada por meta, porém um é referente a turma que o aluno está alocado (inicialmente todos estão em uma turma geral, mas por questões de organização o coach pode dividir seus alunos em turmas) e outro individual. 
+![concmet](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/95b65136-3445-4b3a-bbae-3be8fe5ad580)
+### a parte é apenas um compilado de frases motivacionais
+![frases](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/cf2709a2-00a3-4302-9a30-b281248f474e)
+
+
+
 
