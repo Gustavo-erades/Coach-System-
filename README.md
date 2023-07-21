@@ -47,6 +47,11 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ### O acesso do administrador é por meio do login, assim como o de usuário, porém o login do administrador dado por (email:adm@gmail.com | senha: 996716) apresenta páginas e funcionalidades diferentes.
 ![admHome](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/44650d77-6355-4372-a829-43338c7a723f)
 ### Essa primeira parte serve para mostrar ao administrador do sistema os principais dados dos seus alunos (nome, sobrenome, cpf, email, telefone, turma, etc.); nessa página é possível usar a barra de pesquisa para pesquisar por um aluno em específico (pode ser usado para a pesquisa qualquer atributo mostrado na tabela) ou ainda excluir um aluno deletando seu registro (clicando na lixeirinha), ao fazer isso todos os dados referentes ao aluno excluido são apagados.
+### Clicando no número de telefone o administrador é redirecionado para o whatsapp do aluno em questão.
+## Formulário-alunos
+![admForms1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/4229fae8-ac34-4442-be3a-347054ceb7c4)
+### 
 
+### 
 
 
