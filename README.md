@@ -13,3 +13,9 @@ No lado direito superior há três opções. Ao clicar em "entrar" o usuário é
 É verificado se o input do usuário existe no banco de dados e o login é validado. Há criptografia com hash md5 na senha e validação dos campos de input e, em caso de erro na senha ou email o sistema apenas apaga os campus de input e impede o acesso (não há mensagens do tipo "senha inválida" ou "email não encontrado" para evitar possíveis ataques), para evitar SQLInjection e aumentar a segurança do usuário.
 ## Redefinir senha
 Caso a pessoa clique em "Esqueceu a senha?" uma nova página será aberta e lá a pessoa pode preencher as informações que colocou no cadastro e receber uma nova senha (que mais tarde poderá ser redefinida)
+![redefinirSenha](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/ff983e51-abb0-40b4-a5b6-0802c1ad08de)
+Em caso de erro em algum dos campos uma mensagem de "usuário não encontrado" é apresentada 
+![redefinirSenha2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/da2c9cbb-8742-43c1-91e8-97ff7ce72cd8)
+Caso os dados preenchidos constem no banco de dados, uma nova senha, gerada de modo aleatório, é atribuida àquele email e o usuário pode logar normalmente com ela.
+![redefinirSenha3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/9a1ffaec-703d-4e35-b270-98108d880466)
+#### OBS: todos os campos de input possuem validação (para garantir que emails, números de CPF e nomes sejam preenchidos nos campos corretos)
