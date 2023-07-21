@@ -44,7 +44,9 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ### Em 'Sair' uma mensagem personalizada com o nome do usuário aparece perguntando se ele deseja encerrar a sessão, em caso positivo volta para a página inicial.
 # -------------------------------------------------------------
 # Acesso do Administrador 
-
+### O acesso do administrador é por meio do login, assim como o de usuário, porém o login do administrador dado por (email:adm@gmail.com | senha: 996716) apresenta páginas e funcionalidades diferentes.
+![admHome](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/44650d77-6355-4372-a829-43338c7a723f)
+Nessa primeira parte 
 
 
 
