@@ -40,7 +40,7 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ## Mensagem e Sair
 ### Clicando em 'mensagem' o usuário é redirecionado para enviar uma mensagem automática "quero bater minhas metas" para o whatsapp do administrador do site.
 ### Em 'Sair' uma mensagem personalizada com o nome do usuário aparece perguntando se ele deseja encerrar a sessão, em caso positivo volta para a página inicial.
-# -----------------------------------------------------------
+# ---------------------------------------------------------------
 # Acesso do Administrador 
 
 
