@@ -50,8 +50,13 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ### Clicando no número de telefone o administrador é redirecionado para o whatsapp do aluno em questão.
 ## Formulário-alunos
 ![admForms1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/4229fae8-ac34-4442-be3a-347054ceb7c4)
-### 
+### Aqui a barra de pesquisa funciona da mesma maneira que na página inicial, porém aqui o administrador pode acessar todos os formulários preenchidos por seus alunos e fazer comentários sobre eles (os comentários devem possuir no máximo 490 caracteres).
+![admForms2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/b0d4bf3e-d86e-4b2b-9d99-4e45d9027e90)
 
-### 
-
-
+## Meta-Alunos
+### Nessa aba o administrador pode cadastrar até 5 tópicos para cada meta, analisar a evolução individual do aluno ao realizar essas metas, analisar a conclusão das metas de forma geral de todos os alunos e ainda analisar a realização de cada meta específica mas no aspecto geral dos seus alunos.
+![admMetas1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/43bf9164-7013-4ca2-916e-de2120b197c6)
+![admMetas2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/f108effd-e6b5-4c19-a583-c020280872b9)
+## Turmas
+## Gerar QrCode
+## Alterar Cadastro
