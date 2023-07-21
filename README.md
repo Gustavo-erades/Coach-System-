@@ -22,4 +22,10 @@
 ## Entrando no sistema
 ### Ao realizar o login com sucesso a primeira página apresenta todos os dados preenchidos pelo usuário no momento do cadastro e apresenta ainda a possibilidade de "Completar cadastro" onde é possível alterar todas as informações preenchidas previamente, inclusive a senha
 ![pag1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/258550f7-1cc2-43e5-a66f-2ff078662a0a)
+![pag1-2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/0577fbee-1bda-4044-9b88-f488f19b2c2d)
+## Formulário
+Na barra lateral há uma parte dedicada à formulários, isso porque o projeto foi feito para um coach que fazia alguns questionários com seus clientes com o intuito de conhecê-los melhor. Essa aba tem por objetivo auxiliar a pessoa nesses questionários, assim em "editar fomrulário" o usuário pode preencher os questionários que serão automáticamente enviados para o administrador do site, em "comentários" os usuários podem visualizar comentários feitos pelo próprio coach para aquele formulário específico, para aquela pessoa em específico. OBS: "a visão de futuro daqui 12 meses" se refere a metodologia do coach em questão, cada um dos botões (saúde, relacionamento, Trabalho, Dinheiro, Outros objetivos) leva para um questionário diferente referente a esses temas (por questões de estilo todos seguem o mesmo padrão de estilização), todos tendo suas respostas enviadas automáticamente para o administrador do site e podendo receber seus comentários específicos também.
+![forms1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/7f625cfe-f930-4271-8b45-02cd8f6a4051)
+![forms3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/e0dd23bf-aca6-46f9-8baa-63b412b6cf7d)
+![forms2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/78e61d30-4901-495e-92e6-6960bb7252c2)
 
