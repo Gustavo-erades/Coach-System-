@@ -37,6 +37,11 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ![concmet](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/95b65136-3445-4b3a-bbae-3be8fe5ad580)
 ### a parte é apenas um compilado de frases motivacionais
 ![frases](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/cf2709a2-00a3-4302-9a30-b281248f474e)
+## Mensagem e Sair
+### Clicando em 'mensagem' o usuário é redirecionado para enviar uma mensagem automática "quero bater minhas metas" para o whatsapp do administrador do site.
+### Em 'Sair' uma mensagem personalizada com o nome do usuário aparece perguntando se ele deseja encerrar a sessão, em caso positivo volta para a página inicial.
+# --------------------------------------------------------------------------------------------------------------------
+# Acesso do Administrador 
 
 
 
