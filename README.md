@@ -28,7 +28,7 @@
 ![redefinirSenha3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/9a1ffaec-703d-4e35-b270-98108d880466)
 #### OBS: todos os campos de input possuem validação (para garantir que emails, números de CPF e nomes sejam preenchidos nos campos corretos)
 # -------------------------------------------------------------
-# Acesso do Usuário
+# Acesso do Usuário (caso não deseje criar uma conta pode usr essa de exemplo -> email:teste@gmail.com | senha: 123456)
 ## Entrando no sistema
 ### Ao realizar o login com sucesso a primeira página apresenta todos os dados preenchidos pelo usuário no momento do cadastro e apresenta ainda a possibilidade de "Completar cadastro" onde é possível alterar todas as informações preenchidas previamente, inclusive a senha
 ![pag1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/258550f7-1cc2-43e5-a66f-2ff078662a0a)
