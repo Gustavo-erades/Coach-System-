@@ -7,6 +7,14 @@
 ![contato](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/b123586a-3244-4f12-ab66-fb26959ae145)
 ![contato2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/209967a3-d011-4a2b-a376-f6145d58b478)
 #### OBS: O Xampp estava sendo utilizado durante o desenvolvimento do sistema e ele possui algumas complicações para o uso do PHP mailer, potanto para o envio desse email é usado o formSubmit
+## Cadastro
+### O site tinha como objetivo servir apenas para aqueles alunos que comprassem o curso do administrador do site, nesse caso o Coach. Portanto para o cadastro é necessário clicar em 'começar agora' e apertar em qualquer uma das opções de "compra"
+![compra](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/48d56d88-07fa-4250-ac7d-d44901dc6e44)
+![cad](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/66681467-082e-4cba-941e-89f6259ab737)
+### todos os campos do cadastro possuem validação e são de preenchimento obrigatório; as senhas são criptografadas com hash md5 e armazenadas no banco de dados e além disso devem possuir no mínimo 6 caracteres; o campo de CPF possui validação tanto para quantidade de caracteres como para aceitar apenas números e também para validar se o CPF colocado no input de fato existe; também é necessário, para submeter o formulário, clicar em 'li e concordo com os termos de privacidade' (ao clicar em cima é possível baixar um pdf com os termos de privacidade)
+#### termos de privacidade:
+[termo-de-privacidade (1).pdf](https://github.com/Gustavo-erades/Coach-System-/files/12135553/termo-de-privacidade.1.pdf)
+### Após o cadastro o usuário é direcionado para a página de login
 ## Entrar
 ### No lado direito superior há três opções. Ao clicar em "entrar" o usuário é encaminhado para a página de login, onde também pode clicar em "esqueceu a senha?"
 ![login1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/47de4547-5d0d-421f-807d-3f86d15f0ad9)
