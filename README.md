@@ -1,5 +1,4 @@
 # Coach-System
-# Link:
 ### Projeto de desenvolvimento de um site para coaching baseado na ferramenta de gerenciamento de projetos Trello.
 ![home1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/11c62802-d3a4-458f-9503-80b64044040c)
 ![home1-2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/feb7a1d4-7cc8-4eb0-94ee-e0d9f5fe2c82)
