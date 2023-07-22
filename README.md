@@ -87,4 +87,5 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 #### - Projeto freelancer feito com a colaboração de mais programadores;
 #### - Tecnologias utilizadas: PHP, JavaScript, HTML, CSS, Bootstrap;
 ####  - O Front-end do site foi baseado em um template pago da internet;
-#### - projeto realizado entre Novembro/Dezembro de 2022 e Janeiro/Fevereiro de 2023
+#### - projeto realizado entre Novembro/Dezembro de 2022 e Janeiro/Fevereiro de 2023;
+#### - Para usar o banco de dados vá para o arquivo bancoDeDados.txt e se conecte ao banco, não foi possível hospedar o site (mas o banco sim) então para sua visualização é necessário que se baixe os arquivos e se conecte ao banco de dados.
