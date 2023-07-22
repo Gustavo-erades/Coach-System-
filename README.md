@@ -58,5 +58,11 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ![admMetas1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/43bf9164-7013-4ca2-916e-de2120b197c6)
 ![admMetas2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/f108effd-e6b5-4c19-a583-c020280872b9)
 ## Turmas
+### Nessa aba há uma barra de pesquisa que funciona da mesma forma que as anteriores, porém essa aba serve exclusivamente para o gerenciamento de turmas. Assim há como criar turmas, alocar alunos a turmas específicas, ver a porcentagem de conclusão das metas filtrando por turma (por meio do gráfico, que é mostrado ao clicar no símbolo '%'), deletar turma, ver a quantidade de alunos numa turma específica e realocar alunos para a "Turma Geral" (clicando no desenho do boneco cortado ao lado de 'Sobrenome-Aluno').
+### A "Turma Geral" é uma turma fantasma na qual todos os alunos cadastrados vão automáticamente, essa turma não é apresentada nos gráficos pois demonstram alunos recém chegados e portanto ainda não alocados em uma turma; não há limite de turmas ou de alunos nelas.
+![adminTurmas1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/e2cd2149-0562-49e1-99a4-e49b0584a38d)
+![adminTurmas2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/0eea956d-2ece-4922-a093-f6217fe60c28)
+![adminTurmas3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/7ad797c6-2c43-4720-bf84-280f9d4c7701)
 ## Gerar QrCode
+
 ## Alterar Cadastro
