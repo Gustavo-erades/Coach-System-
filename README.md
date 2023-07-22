@@ -75,7 +75,7 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 # -------------------------------------------------------------
 # Demais informações sobre o sistema
 #### - Foi usado para hospedar o banco de dados o PlanetScale, ele foi modelado no BrModelo e foi ultilizado o MySQL Workbench como SGBD;
-#### - Fui responsável, quase que exclusivamente, pelo Back-end do site, embora tenha feito pequenas alterações no Front-end ao londo das diferentes versões do projeto;
+#### - Fui responsável pelo Back-end do site, embora tenha feito pequenas alterações no Front-end ao londo das diferentes versões do projeto;
 #### - Projeto freelancer feito com a colaboração de mais programadores;
 #### - Tecnologias utilizadas: PHP 8.2, JavaScript, HTML, CSS, Bootstrap;
 ####  - O Front-end do site foi baseado em um template pago da internet;
