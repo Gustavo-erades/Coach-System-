@@ -64,5 +64,19 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 ![adminTurmas2](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/0eea956d-2ece-4922-a093-f6217fe60c28)
 ![adminTurmas3](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/7ad797c6-2c43-4720-bf84-280f9d4c7701)
 ## Gerar QrCode
-
+### Essa aba gera um Qr code que ao ser escaneado leva para a página de registro, além disso ao clicar em 'Gerar QR Code' um arquivo pdf é baixado, arquivo esse que também possui o mesmo QrCode e também um link para a página de cadastro. Serve para caso o administrador deseje fornecer outro caminho de registro, um caminho mais rápido.
+![adminQRcode1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/c48cfa79-7e82-4299-bf46-97fa3ce55b92)
+#### arquivo pdf:
+[Qr_code_register.pdf](https://github.com/Gustavo-erades/Coach-System-/files/12135270/Qr_code_register.pdf)
 ## Alterar Cadastro
+### Essa página serve para caso o administrador desee alterar o email e/ou senha de login, as alterações feitas aqui são alteradas no banco de dados ao clicar em 'Alterar'
+![adminAltcad1](https://github.com/Gustavo-erades/Coach-System-/assets/108373134/217b49f3-3573-4803-8e54-28e7a9e1fdf0)
+## OBS: ao clicar em sair também é exibida uma mensagem de confirmação personalizada.
+# -------------------------------------------------------------
+# Demais informações sobre o sistema
+#### - Foi usado para hospedar o banco de dados o PlanetScale, ele foi modelado no BrModelo e foi ultilizado o MySQL Workbench como SGBD;
+#### - Fui responsável, quase que exclusivamente, pelo Back-end do site, embora tenha feito pequenas alterações no Front-end ao londo das diferentes versões do projeto;
+#### - Projeto freelancer feito com a colaboração de mais programadores;
+#### - Tecnologias utilizadas: PHP 8.2, JavaScript, HTML, CSS, Bootstrap;
+####  - O Front-end do site foi baseado em um template pago da internet;
+#### - projeto realizado entre Novembro/Dezembro de 2022 e Janeiro/Fevereiro de 2023
