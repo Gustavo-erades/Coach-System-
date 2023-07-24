@@ -85,7 +85,7 @@ Na barra lateral há uma parte dedicada à formulários, isso porque o projeto f
 #### - Foi usado para hospedar o banco de dados o PlanetScale, ele foi modelado no BrModelo e foi ultilizado o MySQL Workbench como SGBD;
 #### - Fui responsável pelo Back-end do site, embora tenha feito pequenas alterações no Front-end ao londo das diferentes versões do projeto;
 #### - Projeto freelancer feito com a colaboração de mais programadores;
-#### - Tecnologias utilizadas: PHP, JavaScript, HTML, CSS, Bootstrap;
+#### - Tecnologias utilizadas: PHP, HTML, CSS, Bootstrap, JavaScript;
 ####  - O Front-end do site foi baseado em um template pago da internet;
 #### - projeto realizado entre Novembro/Dezembro de 2022 e Janeiro/Fevereiro de 2023;
 #### - Para usar o banco de dados vá para o arquivo 'bancoDeDados.txt' e se conecte ao banco, não foi possível hospedar o site (mas o banco sim) então para sua visualização é necessário que se baixe os arquivos e se conecte ao banco de dados.
